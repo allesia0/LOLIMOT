@@ -42,7 +42,7 @@ Some output parameters are inputs of function loli_out
 
 LOLIMOT model out. 
 
-#### Input pParameters:
+#### Input Parameters:
 
 **affine_x_in=[1 x_in], an 1\*(M+1) vector**
 
@@ -54,6 +54,6 @@ LOLIMOT model out.
 
 **div_dimensions**: equals to loli_train's div_dimensions
 
-#### Output pParameters:
+#### Output Parameters:
 
 **result**: model's output
