@@ -8,7 +8,7 @@ y&=1*1\ vector\\
 \end{aligned}$$
 
 ## Functions
-
+### Train
 #### [sub_model,center,sigma,left_range,right_range] = loli_train(Y_in,X_in,submodel_count,div_dimensions)
 
 Train LOLIMOT model.
@@ -37,7 +37,7 @@ Train LOLIMOT model.
 
 Some output parameters are inputs of function loli_out
 
-
+### Model Out
 #### [result]=loli_out(sub_model,center,sigma,affine_x_in,div_dimensions)
 
 LOLIMOT model out. 
